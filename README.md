@@ -6,6 +6,12 @@
   <li>My personal web <a href="https://ngeblog-yukz.netlify.app" target="_blank">here (on develop)</a></li>
 </ul>
 <br />
+<p>
+  <a href="https://github-readme-stats.vercel.app/api?username=okanjauhary&show_icons=true&locale=en" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=okanjauhary&show_icons=true&locale=en" alt="Okan's github stats" />
+  </a>
+</p>
+<br />
 <h3>Touch with me</h3>
 <a href="https://www.linkedin.com/in/sulhanjauhari" target="_blank" align="center">
   <img src="https://unpkg.com/simple-icons@3.12.1/icons/linkedin.svg" width="25" height="25">
