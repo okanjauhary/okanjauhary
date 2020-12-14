@@ -1,5 +1,5 @@
-<h1 align="center">HI, I'm Sulhan 👋</h1>
-<p align="center">A Frontend developer who can play pool with a hand 😎</p>
+<h1 align="center">HI, I'm Okan 👋</h1>
+<p align="center">A Frontend developer who can play pool with a hand (one hand i mean 😎)</p>
 
 <h3>Find me around the web 🌏</h3>
 <ul>
