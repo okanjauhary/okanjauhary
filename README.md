@@ -11,20 +11,25 @@
     <img src="https://github-readme-stats.vercel.app/api?username=okanjauhary&show_icons=true&locale=en" alt="Okan's github stats" />
   </a>
 </p>
+<p>
+  <a href="https://wakatime.com/@sulhanjauhari" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sulhanjauhari&layout=compact" alt="Okan's wakatime stats" />
+  </a>
+</p>
 <br />
 <h3>Touch with me</h3>
 <a href="https://www.linkedin.com/in/sulhanjauhari" target="_blank" align="center">
-  <img src="https://unpkg.com/simple-icons@3.12.1/icons/linkedin.svg" width="25" height="25">
+  <img src="https://unpkg.com/simple-icons@3.12.1/icons/linkedin.svg" width="20" height="20">
 </a>
 &nbsp;
 <a href="https://instagram.com/okanjauhary" target="_blank" align="center">
-  <img src="https://unpkg.com/simple-icons@3.12.1/icons/instagram.svg" width="25" height="25">
+  <img src="https://unpkg.com/simple-icons@3.12.1/icons/instagram.svg" width="20" height="20">
 </a>
 &nbsp;
 <a href="https://www.facebook.com/okanjauhary" target="_blank" align="center">
-  <img src="https://unpkg.com/simple-icons@3.12.1/icons/facebook.svg" width="25" height="25">
+  <img src="https://unpkg.com/simple-icons@3.12.1/icons/facebook.svg" width="20" height="20">
 </a>
 &nbsp;
 <a href="https://twitter.com/okanjauhary" target="_blank" align="center">
-  <img src="https://unpkg.com/simple-icons@3.12.1/icons/twitter.svg" width="25" height="25">
+  <img src="https://unpkg.com/simple-icons@3.12.1/icons/twitter.svg" width="20" height="20">
 </a>
