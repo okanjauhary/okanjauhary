@@ -13,7 +13,7 @@
 </p>
 <p>
   <a href="https://wakatime.com/@sulhanjauhari" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sulhanjauhari&layout=compact" alt="Okan's wakatime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=okanjauhary&layout=compact" alt="Okan's wakatime stats" />
   </a>
 </p>
 <br />
